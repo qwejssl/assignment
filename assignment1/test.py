@@ -1,10 +1,3 @@
-"""
-Task Manager Application
-
-This script provides functionality to add, list, and complete tasks.
-Users can interact with the application through a menu-based interface.
-"""
-
 from typing import List, Dict
 
 tasks: List[Dict] = []
